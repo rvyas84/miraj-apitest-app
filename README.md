@@ -5,7 +5,9 @@
 ### node js Setup -- MAC OS
 
 1. **Visit https://nodejs.org/en/download and download and run macOS installer. Keep in mind to install LTS version of node.**
+    
     or
+    
     Run below command in terminal. Version might be different at the time of future download.
     ```bash
     # Download and install nvm:
@@ -25,6 +27,7 @@
     ```
 
 2. **If node is already installed and install latest version**
+    
     List available Node versions
     ```bash
     nvm ls-remote
